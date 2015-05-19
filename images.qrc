@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/loading.png</file>
+        <file>images/success_icon.png</file>
+    </qresource>
+</RCC>
